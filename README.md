@@ -1,15 +1,17 @@
-# Hinged-Square-Rotation-Animation
-This project demonstrates the rotation of a square constructed using vectors in a 2D plane. The square's edges are represented as vectors, and the entire shape is rotated around a fixed corner at (0, 0) using a rotation matrix. The rotation is visualized step-by-step, with an interactive slider to control the rotation angle.
+# Square Hinged Rotation Animation
+This project demonstrates the rotation of a square constructed using vectors in a 2D plane. The square's edges are represented as vectors, and the entire shape is rotated around a fixed corner at (0, 0) using a rotation matrix. The rotation is visualized step-by-step, with an interactive slider to control the rotation angle:
+
+![Watch the video here](examples/demonstration_of_app.gif)
 
 Check out my other repository, [Vector Rotation using Rotation Matrix](https://github.com/BogdanVlad06/Rotation-Matrix-aplication/tree/main), which tackles the mathematical foundation and analogy behind vector rotations.
 
 ---
 
 ## Visuals
-![example](examples/Figure_1.png)
+
 Example visualization of the rotating square. The corner at (0, 0) remains fixed during rotation.
 
-![Watch the video here](examples/demonstration_of_app.gif)
+![example](examples/Figure_1.png)
 
 Also mp4 demonstration in [examples](examples/) file
 
