@@ -49,7 +49,7 @@ Also mp4 demonstration in [examples](examples/) file
 ## Install - using Git
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BogdanVlad06/Hinged-Square-Rotation-Application/tree/main
+   git clone https://github.com/BogdanVlad06/2D-Shape-Hinged-Rotation/tree/main
 
 2. To setup virtual environment:
    ```bash
